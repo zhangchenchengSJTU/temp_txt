@@ -1,3 +1,5 @@
+Game URL: https://umsyt.itch.io/prime-factory
+
 Prime Factory! generated paths/proofs for primes under 10000
 Per-target node limit: 3000000
 Relaxed reachable odd primes: 580
